@@ -1,0 +1,13 @@
+cards ids:
+    monster = 1
+    item = 2
+    effect swap = 3
+    secret card = 4
+
+ids_array2 = ["Gold","SwapperL","Mud","Cure","Plus"]
+
+gold = at the end of round wins 10 $
+SwapperL = Swap with the left card
+Mud = Splashes Mud in the next card, cards with mud deal one more damage and take one more too
+Cure = cure the adjacent monster in 1 and cures players in 1
+Plus = add +1 in any number of the adjacent card (life,damage,sell value,etc...)
